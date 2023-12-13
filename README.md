@@ -1,1 +1,2 @@
-# dashcam-auto-exposure
+# Maintaining Constant Exposure for Dashboard Cameras
+***
